@@ -15,11 +15,11 @@
   </a>
 
   <a href="#About">
-    <img src="https://img.shields.io/badge/🚀_About-FF9800?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🚀_about-FF9800?style=for-the-badge"/>
   </a>
 
   <a href="#Contents">
-    <img src="https://img.shields.io/badge/📬_Contents-E91E63?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📬_Content-E91E63?style=for-the-badge"/>
   </a>
 </p>
 
@@ -35,12 +35,12 @@
 
 ---
 
-# 🚀 About Repository <a id="About"></a>
+# 🚀 About Repository <a id="about"></a>
 
 - This repository was created as a requirement for the course *CPE 031 - Visualizations and Data Analysis
 
 ---
 
-# 📬 Contents <a id="Contents"></a>
+# 📬 Contents <a id="Content"></a>
 
 - README.md
