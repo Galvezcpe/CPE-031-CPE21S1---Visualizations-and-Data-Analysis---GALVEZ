@@ -1,7 +1,7 @@
 # CPE 031-CPE21S1 - Visualizations and Data Analysis
 
 ## Student Information
-- *Name:* Nichollo Dave. Galvez
+- *Name:* Nichollo Dave A. Galvez
 - *Section:* CPE21S1
 
 ## Description
