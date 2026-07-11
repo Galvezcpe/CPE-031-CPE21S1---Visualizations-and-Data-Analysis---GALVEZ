@@ -28,7 +28,7 @@
 
 # 💻 Student Information <a id="Info"></a>
 
-<img length="5" height="300" alt="giphy" src="https://github.com/user-attachments/assets/ae0fb18c-fc59-456a-852e-6b699ceda958" />
+  <img length="5" height="300" alt="giphy" src="https://github.com/user-attachments/assets/ae0fb18c-fc59-456a-852e-6b699ceda958" />
 
 - NAME: Nichollo Dave A. Galvez
 - Section: CPE21S1
