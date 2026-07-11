@@ -45,7 +45,6 @@
 # 📬 Contents <a id="content"></a>
 
 - README.md
-<img width="400" height="150" alt="_Sfd8G" src="https://github.com/user-attachments/assets/bc48e2c8-5a89-4b0b-83e0-1fdc6830e8b8" />
 
 
 
