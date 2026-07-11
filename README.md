@@ -2,10 +2,11 @@
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600" width="100%" alt="Background Banner"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Your Name</h1>
+<h1 align="center">👋CPE 031-CPE21S1 - Visualizations and Data Analysis </h1>
 
 <h3 align="center">
-Welcome to my GitHub Presentation
+    Nichollo Dave A. Galvez CPE21S1                      <img length="5" height="300" alt="giphy" src="https://github.com/user-attachments/assets/ae0fb18c-fc59-456a-852e-6b699ceda958" />
+
 </h3>
 
 <p align="center">
@@ -28,14 +29,6 @@ Welcome to my GitHub Presentation
 
 ---
 
-# 👤 About Me <a id="about"></a>
-
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200"/>
-
-I'm a passionate developer who loves building projects and learning new technologies.
-
----
-
 # 💻 Skills <a id="skills"></a>
 
 <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200"/>
@@ -53,10 +46,7 @@ I'm a passionate developer who loves building projects and learning new technolo
 
 <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200"/>
 
-- Portfolio Website
-- Discord Bot
-- AI Projects
-- Mobile Apps
+- This repository was created as a requirement for the course *CPE 031 - Visualizations and Data Analysis
 
 ---
 
@@ -64,5 +54,4 @@ I'm a passionate developer who loves building projects and learning new technolo
 
 <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200"/>
 
-- GitHub: `github.com/yourusername`
-- Email: `you@example.com`
+- README.md
