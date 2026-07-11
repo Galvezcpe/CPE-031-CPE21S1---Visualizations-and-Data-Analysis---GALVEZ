@@ -39,7 +39,6 @@
 
 - This repository was created as a requirement for the course CPE 031 - Visualizations and Data Analysis
 <img width="330" height="427" alt="giphy" src="https://github.com/user-attachments/assets/d949e641-a21f-480a-9846-99748b8990c1" />
----
 
 # 📬 Contents <a id="content"></a>
 
