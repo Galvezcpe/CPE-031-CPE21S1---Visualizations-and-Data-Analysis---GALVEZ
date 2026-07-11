@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600" width="100%" alt="Background Banner"/>
+  <img width="1024" height="439" alt="dataanalytics-1024x439" src="https://github.com/user-attachments/assets/3bf437fc-c771-47f5-8db4-976c51597b3e" />
 </p>
 
 <h1 align="center">👋CPE 031-CPE21S1 - Visualizations and Data Analysis </h1>
