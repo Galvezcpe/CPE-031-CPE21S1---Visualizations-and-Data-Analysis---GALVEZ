@@ -11,15 +11,15 @@
 
 <h3 align="center">
   <a href="#Info">
-    <img src="https://img.shields.io/badge/💻_Skills-2196F3?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/💻_Info-2196F3?style=for-the-badge"/>
   </a>
 
   <a href="#About">
-    <img src="https://img.shields.io/badge/🚀_Projects-FF9800?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🚀_About-FF9800?style=for-the-badge"/>
   </a>
 
   <a href="#Contents">
-    <img src="https://img.shields.io/badge/📬_Contact-E91E63?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📬_Contents-E91E63?style=for-the-badge"/>
   </a>
 </p>
 
