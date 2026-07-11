@@ -35,12 +35,12 @@
 
 ---
 
-# 🚀 About Repository <a id="content"></a>
+# 🚀 About Repository <a id="about"></a>
 
 - This repository was created as a requirement for the course *CPE 031 - Visualizations and Data Analysis
 
 ---
 
-# 📬 Contents <a id="breh"></a>
+# 📬 Contents <a id="content"></a>
 
 - README.md
