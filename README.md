@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/🚀_about-FF9800?style=for-the-badge"/>
   </a>
 
-  <a href="#Contents">
-    <img src="https://img.shields.io/badge/📬_breh-E91E63?style=for-the-badge"/>
+  <a href="#content">
+    <img src="https://img.shields.io/badge/📬_contents-E91E63?style=for-the-badge"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 ---
 
-# 🚀 About Repository <a id="about"></a>
+# 🚀 About Repository <a id="content"></a>
 
 - This repository was created as a requirement for the course *CPE 031 - Visualizations and Data Analysis
 
