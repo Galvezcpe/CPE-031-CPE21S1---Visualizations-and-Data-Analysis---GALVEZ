@@ -38,7 +38,7 @@
 # 🚀 About <a id="about"></a>
 
 - This repository was created as a requirement for the course CPE 031 - Visualizations and Data Analysis
-PROF: Engr. Jimlord <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0810aea3-23cf-4377-ab89-03ed7e64d5f0" />
+- PROF: Engr. Jimlord <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0810aea3-23cf-4377-ab89-03ed7e64d5f0" />
 
 # 📬 Contents <a id="content"></a>
 
